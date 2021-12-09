@@ -1,6 +1,6 @@
   Dependency:
   
-  implementation 'com.github.waleedIjaz-design:ToastLibrary:1.0'
+  implementation 'com.github.waleedIjaz-design:ToastLibrary:1.0.1'
   
   
   
