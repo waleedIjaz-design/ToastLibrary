@@ -17,7 +17,5 @@ public class MainActivity extends AppCompatActivity {
         ToasterMessage.s(MainActivity.this,"Toast Library");
 
 
-
-
     }
 }

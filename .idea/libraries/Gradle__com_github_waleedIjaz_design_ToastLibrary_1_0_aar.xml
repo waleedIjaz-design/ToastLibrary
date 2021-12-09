@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.waleedIjaz-design:ToastLibrary:1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/00b8ae9a3f61ffabd1a6454b2e154290/ToastLibrary-1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/00b8ae9a3f61ffabd1a6454b2e154290/ToastLibrary-1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/00b8ae9a3f61ffabd1a6454b2e154290/ToastLibrary-1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.waleedIjaz-design/ToastLibrary/1.0/784e73b59250fc8167c2731cdab7d5a3d350751a/ToastLibrary-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
