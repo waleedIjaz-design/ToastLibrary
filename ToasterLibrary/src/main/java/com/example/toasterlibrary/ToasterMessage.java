@@ -13,7 +13,7 @@ public class ToasterMessage {
 
     public static int sub(Context context, int a, int b){
 
-        return a+b;
+        return a-b;
     }
 
 
