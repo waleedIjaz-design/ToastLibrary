@@ -11,12 +11,13 @@ public class ToasterMessage {
 
     }
 
-    public static int addition(Context context, int a, int b){
+
+    public static double addition(Context context, double a, double b){
 
         return a+b;
     }
 
-    public static int subtraction(Context context, int a, int b){
+    public static double subtraction(Context context, double a, double b){
 
         return a-b;
     }
